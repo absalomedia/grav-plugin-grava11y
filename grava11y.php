@@ -69,7 +69,7 @@ class Grava11yPlugin extends Plugin
     {
         // check if enabled
         if ($this->enabled) {
-            $a11ystack =  $a11ystack = array(
+            $a11ystack = array(
                     'plugin://grava11y/css/grava11y.css',
             );
 
