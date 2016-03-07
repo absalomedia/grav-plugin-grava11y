@@ -17,7 +17,7 @@ use Grav\Common\User\User;
  *
  * @license http://opensource.org/licenses/MIT
  */
-class grava11y extends Plugin
+class Grava11yPlugin extends Plugin
 {
     protected $enabled = false;
 
