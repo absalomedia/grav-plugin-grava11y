@@ -2,7 +2,7 @@
 ## 02/13/2017
 
 1. [](#update)
-    * Update to Khan version 0.1.5
+    * Update to Khan version 0.1.6
 
 # v1.0.1
 ## 05/23/2016
